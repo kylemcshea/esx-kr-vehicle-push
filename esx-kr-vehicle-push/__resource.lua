@@ -1,3 +1,9 @@
-resource_manifest_version '05cfa83c-a124-4cfa-a768-c24a5811d8f9'
+fx_version 'bodacious'
+game 'gta5'
 
-client_script "client.lua"
+author 'esx-kr-vehicle-push Original Script with additions to take on qtarget for dependency.'
+version '1.0.0'
+
+client_script {
+    'client.lua',
+}
