@@ -7,6 +7,7 @@
 
 1. Download the files and insert them into your resouce folder.
 2. Write esx-kr-vehicle-push in your server.cfg.
+3. Change _resource.lua to fxmanifest.lua
 
 **Note**
 I made parts of this script with Zeb.
