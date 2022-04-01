@@ -119,7 +119,6 @@ RegisterNetEvent('esx_vehicle_push:activelyPushingV', function(isPushingV)
 					end
 				else
 					isPushingV = false
-					Vehicle.IsInFront = false
 					Vehicle = {Coords = nil, Vehicle = nil, Dimension = nil, IsInFront = false, Distance = nil}
 				end
 			else
